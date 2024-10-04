@@ -1,0 +1,9 @@
+[submodule "deps/FFmpeg"]
+	path = deps/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "deps/fmt"]
+	path = deps/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "deps/tensorflow"]
+	path = deps/tensorflow
+	url = https://github.com/tensorflow/tensorflow.git

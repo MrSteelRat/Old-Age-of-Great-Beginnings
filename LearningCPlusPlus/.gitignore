@@ -1,0 +1,12 @@
+# Nested build directory
+build/
+
+# CLion project configuration
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# VS Code config files
+.vscode/
+.vs/
+*.out

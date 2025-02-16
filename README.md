@@ -1,5 +1,3 @@
-Вот обновленная версия `README.md` с указанием авторства:  
-
 ```markdown
 # Old Age of Great Beginnings
 
